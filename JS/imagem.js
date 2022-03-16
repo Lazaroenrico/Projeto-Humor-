@@ -1,8 +1,5 @@
 var cont = 0
-
 var img = document.querySelector("#image");
-
-
 
 const mudaimage = () => {
 
